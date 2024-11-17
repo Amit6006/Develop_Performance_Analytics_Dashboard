@@ -20,4 +20,4 @@ Steps to Run the Project are:
 
 		http://localhost:8501	
 
-5. Enter the URL and Queries after clicking fetch data button. 
+5. Enter the URL & Queries after clicking fetch data button. 
