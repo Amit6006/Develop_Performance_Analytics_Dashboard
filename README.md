@@ -16,7 +16,7 @@ Steps to Run the Project are:
 		
 		streamlit run app.py
 
-4.View the Dashboard: Open your browser and go to:
+4.View the Dashboard: Open your browser and goto:
 
 		http://localhost:8501	
 
