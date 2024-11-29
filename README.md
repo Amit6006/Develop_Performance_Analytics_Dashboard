@@ -6,7 +6,7 @@ Steps to Run the Project are:-
 
 		pip install -r requirements.txt
 
-2.Set Up a Virtual Environment (optional): Create and activate a virtual environment:
+2.Set Up a Virtual Environment (optional): Create and activate a virtual environment:-
 		
 		python -m venv venv
  		venv\Scripts\activate
