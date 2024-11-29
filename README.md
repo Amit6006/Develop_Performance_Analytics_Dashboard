@@ -2,7 +2,7 @@ The Developer Performance Analytics Dashboard is a simple tool to monitor develo
 
 Steps to Run the Project are:-
 
-1.Install Dependencies: Install required libraries using:
+1.Install Dependencies: Install required libraries using:-
 
 		pip install -r requirements.txt
 
