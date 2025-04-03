@@ -1,4 +1,4 @@
-The Developer Performance Analytics Dashboard is a simple tool to monitor developer activity by analyzing GitHub repository data. It calculates key metrics like commit frequency and pull request merge rate and visualizes these through an intuitive dashboard. This project helps teams track productivity and identify areas for improvement.
+The Developer Performance Analytics Dashboard is a simple tool to monitor developer activity by analyzing GitHub repository data. It calculates key metrics like commit frequency and pull request merge rate and visualizes these through an intuitive dashboard. This project helps teams track productivity and identify the areas for improvement.
 
 Steps to Run the Project are:
 
